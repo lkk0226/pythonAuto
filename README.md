@@ -1,5 +1,3 @@
 # pythonAuto
 python自动构建
-bbbbbbb
-gggggggg
-s
+111111111111
