@@ -1,2 +1,6 @@
 wwwwwwwww
+<<<<<<< HEAD
 master branch
+=======
+test1 branch conflit
+>>>>>>> test1
